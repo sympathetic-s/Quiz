@@ -8,6 +8,8 @@ O intuito do quiz foi reproduzir um programa em python para entender melhor suas
 
 ## Prévia
 
+Abaixo pode se obeservar duas das cincos questões elaboradas: 
+
 ![Prévia do Quiz](Imagens/Quiz1.png)
 
 
